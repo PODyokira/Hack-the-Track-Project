@@ -528,8 +528,8 @@ A **full-stack AI-powered racing simulation system** that:
 
 **Developed by:**
 
-- **Najb Yassine** (@podyokira) – Full-stack Development, AI/ML Integration  
-- **Oussama Hammach** (@oussahm) – Backend Architecture, Model Integration
+- **Najb Yassine** 
+- **Oussama Hammach** 
 
 This project was created with passion for racing, AI engineering, and real-time systems. Both team members contributed equally to the architecture, implementation, and optimization of the RealtimeRacingStrategyEngine.
 
