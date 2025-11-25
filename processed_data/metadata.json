@@ -1,0 +1,21 @@
+{
+  "expert_drivers": [
+    13,
+    72,
+    22,
+    98,
+    55
+  ],
+  "state_features": [
+    "lateral_g",
+    "longitudinal_g",
+    "sector_S1",
+    "sector_S2",
+    "sector_S3"
+  ],
+  "action_features": [
+    "throttle_position",
+    "Steering_Angle"
+  ],
+  "track_length": 144672
+}

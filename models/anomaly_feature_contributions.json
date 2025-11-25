@@ -1,0 +1,37 @@
+{
+  "total_brake_pressure": {
+    "contribution": 11.467761467662159,
+    "anomaly_mean": 67.50809592308268,
+    "normal_mean": 5.414611486626373
+  },
+  "steering_consistency": {
+    "contribution": 2.6735625932088682,
+    "anomaly_mean": 18.328787337273965,
+    "normal_mean": 4.989375898370394
+  },
+  "Steering_Angle": {
+    "contribution": 1.3941797566126428,
+    "anomaly_mean": 3.4202891853618547,
+    "normal_mean": -8.67697474008841
+  },
+  "longitudinal_g": {
+    "contribution": 1.1082822495159734,
+    "anomaly_mean": 0.4819965715137513,
+    "normal_mean": 0.22861998830667002
+  },
+  "throttle_position": {
+    "contribution": 0.5175607743657802,
+    "anomaly_mean": 0.341587815458001,
+    "normal_mean": 0.7080442776387422
+  },
+  "lateral_g": {
+    "contribution": 0.2488731804098521,
+    "anomaly_mean": 0.8172855034657523,
+    "normal_mean": 0.6544181326116374
+  },
+  "speed": {
+    "contribution": 0.0438396035194756,
+    "anomaly_mean": 123.57916762316465,
+    "normal_mean": 129.24522718351406
+  }
+}
