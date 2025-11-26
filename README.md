@@ -503,13 +503,6 @@ A **full-stack AI-powered racing simulation system** that:
 - ✅ Displays live dashboards with realistic variation
 - ✅ Scales from historical data to live race support
 
-**Presentation talking points:**
-1. "We solved the race strategy problem using AI"
-2. "Real-time telemetry streaming powers live decision-making"
-3. "Hybrid models (IL + RL) capture both driving technique and race strategy"
-4. "Dashboard updates per sample—drivers see insights instantly"
-5. "Realistic telemetry variation ensures models produce varied, believable outputs"
-
 ---
 
 ## 💡 Future Enhancements
